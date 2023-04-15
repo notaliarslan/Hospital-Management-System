@@ -1,0 +1,3 @@
+Muhammad    Ali    marslan589@gmail.com    12-04-2010    ali123    3420134562732    Male    MBBS    03143564766    23-09-1990    Chiniot    134000    Physiotherapy
+Muhammad    Mir    ahmedmir12@gmail.com    12-11-2013    212mir    2343248900911    Male    BDS    03405434588    12-09-1980    Sahiwal    140000    Dental
+Muhammad    Zia    ahmedza123@gmail.com    02-01-2013    azr098    1243253466541    Male    Nutritionist    03124325643    23-10-1989    Faisalabad    123000   Health
